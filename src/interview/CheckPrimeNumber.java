@@ -3,8 +3,8 @@ import java.util.*;
 public class CheckPrimeNumber {
 
 	public static void main(String[] args) {
-		Scanner s= new Scanner(System.in);
-		int number=s.nextInt();
+		Scanner sc= new Scanner(System.in);
+		int number=sc.nextInt();
 		
 //		float num=number/2;
 //		int sum=(int) num;
