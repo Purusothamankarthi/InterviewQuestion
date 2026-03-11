@@ -12,13 +12,13 @@ public class ReverseanInteger {
             reversed = reversed * 10 + digit;
 		}
 		System.out.println(reversed);
-		while(number!=0)
-		{
-			 int digit = number % 10;         
-	            reversed = reversed * 10 + digit; 
-	            number = number / 10;  
-		}
-		System.out.print(reversed);
+//		while(number!=0)
+//		{
+//			 int digit = number % 10;         
+//	            reversed = reversed * 10 + digit; 
+//	            number = number / 10;  
+//		}
+//		System.out.print(reversed);
 	}
 
 }
