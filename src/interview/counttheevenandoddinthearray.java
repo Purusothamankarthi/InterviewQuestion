@@ -15,6 +15,6 @@ public class counttheevenandoddinthearray {
 				odd++;
 			}
 		}
-		System.out.print(even+"  "+odd);
+		System.out.print(even+"  "+odd      );
 	}
 }
