@@ -27,6 +27,6 @@ public class consecutive {
 			ans=count;
 			}
 		}
-		System.out.print(ans);
+		System.out.print(ans+"   ");
 	}
 }
