@@ -4,7 +4,7 @@ public class FirstRepeatingChar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String words="programming";
+		String words="programmingp";
 		int flag=0;
 	
 		for(int i=0;i<words.length();i++) {
